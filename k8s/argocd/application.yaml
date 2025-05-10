@@ -17,7 +17,7 @@ spec:
 
   # Source of the application manifests
   source:
-    repoURL: https://github.com/ganislp/integration-mysql-db.git
+    repoURL: https://github.com/ganislp/integration-active-mq.git
     targetRevision: HEAD
     path: k8s/deployment
     
